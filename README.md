@@ -1,2 +1,2 @@
 # Titanic-Machile-Learning-from-disasrer
-Using Logistic Regression to determine if a patient survived or not
+Using Logistic Regression to determine if a passenger survived or not
